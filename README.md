@@ -1,1 +1,1 @@
-# ROBOTIC-AI
+Robotic AI is the integration of artificial intelligence (AI) with robotics, creating machines that can perform tasks autonomously or with minimal human intervention. These systems combine the physical capabilities of robots with the cognitive abilities of AI, enabling them to perceive their environment, make decisions, and execute actions intelligently.
